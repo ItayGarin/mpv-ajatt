@@ -42,6 +42,9 @@ Keybinding | Function
 ---------- | ---------
 `v` | toggle subtitles visibility on/off
 `Ctrl + left/right` | Seek to previous/next subtitles line (works when the subtitles are invisible!)
+`Alt + up/down` | Hiding hardcoded subtitles (vertical video panning)
+
+You can find the full list of mpv's keybindings [here](https://mpv.io/manual/master/#keyboard-control).
 
 ### Custom Keybindings
 
@@ -72,5 +75,5 @@ Or just ping me on the Discord server.
 ## Links
 
 - [Animelon](https://animelon.com)
-- [mpv](https://mpv.io/)
+- [mpv](https://mpv.io/) ([keybindings](https://mpv.io/manual/master/#keyboard-control))
 - [Jisho](https://jisho.org/)
